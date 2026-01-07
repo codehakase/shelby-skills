@@ -1,0 +1,20 @@
+{
+  "name": "shelby-skills",
+  "version": "1.0.0",
+  "description": "Claude Code skills for building on Shelby decentralized storage network (Aptos blockchain). Covers file upload/download, APT/ShelbyUSD balances, blob management, and WebDAV integration.",
+  "author": "codehakase",
+  "license": "MIT",
+  "keywords": [
+    "shelby",
+    "aptos",
+    "blockchain",
+    "decentralized-storage",
+    "web3",
+    "fungible-assets",
+    "webdav"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codehakase/shelby-skills"
+  }
+}
