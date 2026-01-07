@@ -1,0 +1,13 @@
+{
+  "name": "shelby-skills",
+  "owner": {
+    "name": "codehakase"
+  },
+  "plugins": [
+    {
+      "name": "shelby-blockchain",
+      "source": ".",
+      "description": "Skills for building on Shelby decentralized storage network (Aptos blockchain). Covers file upload/download, APT/ShelbyUSD balances, and blob management."
+    }
+  ]
+}

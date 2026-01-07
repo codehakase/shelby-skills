@@ -4,9 +4,25 @@ A Claude Code plugin providing skills for building on [Shelby](https://shelby.xy
 
 ## Installation
 
+### Step 1: Add the marketplace
+
 ```bash
-/plugin install github:codehakase/shelby-skills
+/plugin marketplace add codehakase/shelby-skills
 ```
+
+### Step 2: Install the plugin
+
+```bash
+/plugin install shelby-blockchain@shelby-skills
+```
+
+### Verify installation
+
+```bash
+/plugin list
+```
+
+You should see `shelby-blockchain` in your installed plugins.
 
 ## What's Included
 
